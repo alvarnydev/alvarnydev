@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YannikSahl
-- 🌱 I’m currently learning: C# and web development technology (JavaScript, HTML5, SCSS, React, Ruby)
+- 🌱 I’m currently learning: C# and web development (JavaScript, HTML5, SCSS, React, Ruby)
 - 📫 How to reach me: Drop me a message on [Twitter](https://twitter.com/yrscode)
 
 <!---
