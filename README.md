@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YannikSahl
 - 🌱 I’m currently learning: C# and web development (JavaScript, HTML5, SCSS, React, Ruby)
-- 📫 How to reach me: Drop me a message on [Twitter](https://twitter.com/yrscode)
+- 📫 How to reach me: Drop me a message on [Twitter](https://twitter.com/YannikSahl)
 
 <!---
 YannikSahl/YannikSahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
