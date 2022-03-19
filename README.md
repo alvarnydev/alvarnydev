@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YannikSahl
+- 👋 Hi, I’m Yannik Sahl
 - 🌱 I’m currently learning: C# and web development (JavaScript, HTML5, SCSS, React, Ruby)
 - 📫 How to reach me: Drop me a message on [Twitter](https://twitter.com/YannikSahl)
 
