@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yannik Sahl
-- 🌱 I’m currently learning: C# and web development (JavaScript, HTML5, SCSS, React, Ruby)
+- 🌱 I’m not too active on the programming side anymore but feel free to reach out
 - 📫 How to reach me: Drop me a message on [Twitter](https://twitter.com/YannikSahl)
 
 <!---
