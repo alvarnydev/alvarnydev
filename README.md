@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yannik Sahl
-- 🌱 I’m not too active on the programming side anymore but feel free to reach out
+- 🌱 I’m looking to start my career in (web) development using C#, TypeScript and the basics like SCSS and HTML
 - 📫 How to reach me: Drop me a message on [Twitter](https://twitter.com/YannikSahl)
 
 <!---
