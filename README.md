@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yannik Sahl
-- 🌱 I’m not too active on the programming side anymore but feel free to reach out
-- 📫 How to reach me: Drop me a message on [Twitter](https://twitter.com/YannikSahl)
+- 🌱 I work with C# (mostly ASP.NET and some Unity) and web dev languages (HTML, SCSS, TypeScript)
+- 📫 How to reach me: drop me a message on [Twitter](https://twitter.com/YannikSahl)
 
 <!---
 YannikSahl/YannikSahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
