@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yannik Sahl
-- 🌱 I work with C# (mostly ASP.NET and some Unity) and do some Web Dev things (using HTML, SCSS and TypeScript)
+- 🌱 I am a .NET developer (WPF, ASP.NET and some Unity) and do some web dev things (using HTML, SCSS and TypeScript)
 - 📫 How to reach me: drop me a message on [Twitter](https://twitter.com/YannikSahl)
 
 <!---
