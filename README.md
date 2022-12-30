@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yannik Sahl
-- 🌱 I am a .NET developer (.NET 6, WPF + Avalonia UI, ASP.NET) and do some web dev things (using HTML, SCSS and TypeScript)
+- 🌱 I am a .NET developer (.NET 6, WPF + Avalonia UI, ASP.NET) and do some web dev things (HTML, SCSS and TypeScript)
 - 📫 How to reach me: drop me a message on [Twitter](https://twitter.com/YannikSahl)
 
 <!---
