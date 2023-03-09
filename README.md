@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yannik Sahl
-- 🌱 I am a .NET developer (.NET 6, WPF + Avalonia, ASP.NET) turned UI / UX Designer & Web Dev
+- 🌱 I am a .NET developer (.NET 6, WPF + Avalonia, ASP.NET) with an interest in UI/UX & web dev things
 - 📫 How to reach me: drop me a message on [Twitter](https://twitter.com/YannikSahl)
 
 <!---
