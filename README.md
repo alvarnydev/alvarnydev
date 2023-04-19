@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Yannik Sahl
-- 🌱 I am a .NET developer (.NET 6, WPF + Avalonia, ASP.NET) with an interest in UI/UX & web dev things
-- 📫 How to reach me: drop me a message on [Twitter](https://twitter.com/YannikSahl)
+- 👋 Hi, I’m Yannik and I develop stuff mostly in C# and the .NET world or web stuff using React/Next.js
+- 📫 How to reach me: drop me a message on [Twitter](https://twitter.com/YannikSahl) or shoot man an email at [hello@alvarny.dev](mailto:hello@alvarny.dev)
 
 <!---
 YannikSahl/YannikSahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
