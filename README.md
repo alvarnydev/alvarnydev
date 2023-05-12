@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Yannik and I develop stuff either in C# and the .NET world or in JS/TS using React and Next.js
+- 👋 Hi, I’m Yannik and I develop stuff either in C# and the .NET world or in TypeScript using React and Next.js
 - 📫 How to reach me: drop me a message on [Twitter](https://twitter.com/alvarnydev) or shoot me an email at [hello@alvarny.dev](mailto:hello@alvarny.dev)
