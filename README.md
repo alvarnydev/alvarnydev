@@ -1,3 +1,1 @@
-- 👋 Hi, I go by Alvarny and I develop web apps using mostly React and TypeScript
-- 👨‍💻 Find out more about me at [alvarny.dev](https://alvarny.dev)
-- 💬 How to reach me: shoot me an email at [hi@alvarny.dev](mailto:hi@alvarny.dev)
+
